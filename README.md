@@ -25,8 +25,8 @@ Exploring new frontiers in coding and expanding my knowledge in web development.
 
 ## 💻 Favorite Languages and Technologies
 - Java (Favorite)
-- React
-- SQL (MariaDB)
+- React + Next.js
+- SQL (MariaDB), PostgreSql
 - JavaScript
 - C++
 
